@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * @author Brendna Warnick
+ * @author Brendan Warnick
  * @version CIS 263 Winter 2018
  * 263 Extra Credit Knapsack Problem
  * used https://www.geeksforgeeks.org/knapsack-problem/ for reference
